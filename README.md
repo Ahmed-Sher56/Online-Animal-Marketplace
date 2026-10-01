@@ -1,4 +1,4 @@
-# Online Animal Marketplace - Online Animal Marketplace
+# Online Animal Marketplace 
 ## Final Year Project (FYP)
 
 ### Project Overview
